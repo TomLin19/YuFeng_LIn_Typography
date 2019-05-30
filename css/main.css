@@ -1,0 +1,66 @@
+body{font-family: 'Ranga', cursive;
+font-family: 'Oswald', sans-serif;
+background-color:#FFE669; }
+
+#container {
+	width:950px;
+	margin: 0 auto;
+}
+#logo{ 
+	width: 100px;
+	height: 100px;
+    float: right;
+    
+}
+
+h1{
+	font-size: 50px;
+	font-weight:300;
+	color: lightblue;
+	letter-spacing: 1px;
+}
+
+h3{
+	font-weight: 700;
+	font-size: 30px;
+	color: lightblue;
+}
+
+p{
+	color:#2774E8;
+	font-size: 30px;
+	font-weight:300;
+	line-height: 40px;
+	font-family: 'Ranga', cursive;
+
+
+}
+
+.drop-cap{
+	font-size: 100px;
+	font-weight: 400;
+	line-height: 70px;
+	float:left;
+	margin: 7px 14px 0 0;
+}
+
+.floatImgLeft{
+	float: left;
+	margin-right: 30px;
+	padding: 0;
+}
+
+figcaption {
+	font-size: 16px;
+	font-weight: 300;
+	font-style: bold;
+	letter-spacing: 1px;
+	color: black;
+	font-family: 'Oswald', sans-serif;
+}
+
+.floatImgright{
+	float:right;
+	margin-left: 30px;
+	padding:0;
+}
